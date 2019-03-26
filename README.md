@@ -57,19 +57,20 @@ The code to replicate the tests on MovieLens dataset is given in Main.py . Run u
 $ python Main.py
 ```
 </br>
-![img2](https://user-images.githubusercontent.com/45623734/55021924-99706900-501f-11e9-8b1e-3db548607502.png)
+
+![img2](https://user-images.githubusercontent.com/45623734/55022364-6ed2e000-5020-11e9-9a98-e1c9e4149a67.png)
 
 Although all the results are saved in *movielens.ipynb* along with the results and the plots.The data can be found in the */data* repo.Also to run the terminal app:
 ```
 $ python gui.py
 ```
 ### Terminal App
-The Terminal App uses the concept of closest users to current user based on 10 random movies rated by the (current)user upon which he or she is recommended 5 genre as well as shown closest users.
+The Terminal App uses the concept of closest users to current user based on 10 random movies rated by the (current) user upon which the user is recommended 5 genre as well as shown closest users.
 </br>
 An example would be like ![img3](https://user-images.githubusercontent.com/45623734/55021244-6d081d00-501e-11e9-84e3-3e35219406a0.png)
 
 ### Downloads and Contribution 
-To clone the repo 
+To clone the repository 
 ```
 $ git clone https://github.com/muditbhartia/Movie_Recommendation_System
 ```
