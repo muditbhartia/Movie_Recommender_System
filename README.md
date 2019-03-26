@@ -20,10 +20,10 @@ $ python gui.py
 ### Terminal App
 The Terminal App uses the concept of closest users to current user based on 10 random movies rated by the (current)user upon which he or she is recommended 5 genre as well as shown closest users.
 </br>
-An example would be like ![this](http://www.github.com/muditbhartia/movie_recommender_system/Images/img3.png)
+An example would be like ![this](img3.png)
 ### Downloads and Contribution 
 To clone the repo 
 ```
-$ git clone https://github.com/muditbhartia/Movie-Recommendation
+$ git clone https://github.com/muditbhartia/Movie_Recommendation_System
 ```
 
